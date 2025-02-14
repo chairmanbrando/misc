@@ -14,11 +14,6 @@ Menu Tray, Tip, Windows Betterer
 ; to a specific desktop where you're currently required to scroll through each
 ; one to do so. See: https://superuser.com/a/1701856
 
-; I need the same auto-clicking with CapsLock but with RMB. I can't do it by
-; modifying it directly, but maybe I could do it by also holding an unrelated
-; key? Maybe changing PgUp and PgDn to LMB and RMB respectively is the call --
-; while leaving CapsLock for LMB too since it's well positioned.
-
 ; ----- @functions ----------------------------------------------------------- ;
 
 Min(X, Y) {
